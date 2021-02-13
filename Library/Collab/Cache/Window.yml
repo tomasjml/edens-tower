@@ -16,6 +16,7 @@ MonoBehaviour:
     m_Keys:
     - Assets/Animations/Door/Doors spritesheet_0.controller
     - Assets/Animations/Player/Player.controller
+    - Assets/Example/SampleScene.unity.meta
     - Assets/Prefabs/Player.prefab
     - Assets/Prefabs/Player.prefab.meta
     - Assets/Scenes/Dormitorio Lisa.unity
@@ -23,9 +24,22 @@ MonoBehaviour:
     - Assets/Scenes/Sala.unity
     - Assets/Script/Door.cs
     - Assets/Script/PlayerController.cs
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
     - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/VFXManager.asset
     - 
-    m_Values: 0000000000000000000000
+    m_Values: 00000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
