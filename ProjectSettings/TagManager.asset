@@ -14,9 +14,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - background
+  - Floor
+  - testing
   - 
   - 
   - 
@@ -47,4 +47,10 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2385489907
+    locked: 0
+  - name: Floor
+    uniqueID: 3748997169
+    locked: 0
+  - name: top
+    uniqueID: 2981414823
     locked: 0
