@@ -1,7 +1,19 @@
-<<<<<<< HEAD
-Base path: 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-=======
-Base path: 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines'
-Cmd: initializeCompiler
->>>>>>> f31a864df49835e41699e571f5ad78be535bd4bd
+Cmd: compileSnippet
+  api=4 type=0 insize=1582 outsize=690 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1582 outsize=354 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=2439 outsize=823 ok=1
+Cmd: preprocess
+  insize=1633 outsize=547 ok=1
+Cmd: preprocess
+  insize=1495 outsize=207 ok=1
+Cmd: preprocess
+  insize=4367 outsize=712 ok=1
+Cmd: preprocess
+  insize=2414 outsize=2035 ok=1
+Cmd: preprocessCompute
+  insize=1953 outsize=1957 ok=1
+Cmd: compileComputeKernel
