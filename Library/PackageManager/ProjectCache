@@ -1,21 +1,21 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
     m_FilePath: "C:/Users/ASUS ROG SCAR II/OneDrive - Pontificia Universidad Cat\xF3lica
-      Madre y Maestra/Repo/Escena 1/Packages/manifest.json"
+      Madre y Maestra/EdensTower/edens-tower/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637485895987552106
-    m_Hash: 630307691
+      ticks: 637486928170095822
+    m_Hash: 3092759808
   m_LockFileStatus:
     m_FilePath: "C:/Users/ASUS ROG SCAR II/OneDrive - Pontificia Universidad Cat\xF3lica
-      Madre y Maestra/Repo/Escena 1/Packages/packages-lock.json"
+      Madre y Maestra/EdensTower/edens-tower/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637485896006920660
+      ticks: 637486931453892723
     m_Hash: 3767426393
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -28,7 +28,7 @@ m_PackageAssets:
       version: 5.0.3
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.animation@5.0.3"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.animation@5.0.3"
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -160,7 +160,7 @@ m_PackageAssets:
       version: 4.0.1
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.pixel-perfect@4.0.1"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.pixel-perfect@4.0.1"
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -234,7 +234,7 @@ m_PackageAssets:
       version: 4.0.2
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.psdimporter@4.0.2"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.psdimporter@4.0.2"
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -395,7 +395,7 @@ m_PackageAssets:
       version: 5.1.0
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.spriteshape@5.1.0"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.spriteshape@5.1.0"
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -576,7 +576,7 @@ m_PackageAssets:
       version: 2.6.3
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.cinemachine@2.6.3"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.cinemachine@2.6.3"
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -694,7 +694,7 @@ m_PackageAssets:
       version: 1.3.9
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.collab-proxy@1.3.9"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.collab-proxy@1.3.9"
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -790,7 +790,7 @@ m_PackageAssets:
       version: 2.0.7
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.ide.rider@2.0.7"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.ide.rider@2.0.7"
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -892,7 +892,7 @@ m_PackageAssets:
       version: 1.2.3
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.ide.vscode@1.2.3"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.ide.vscode@1.2.3"
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -962,7 +962,7 @@ m_PackageAssets:
       version: 1.1.20
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.test-framework@1.1.20"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.test-framework@1.1.20"
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1051,7 +1051,7 @@ m_PackageAssets:
       version: 3.0.1
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.textmeshpro@3.0.1"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.textmeshpro@3.0.1"
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1199,7 +1199,7 @@ m_PackageAssets:
       version: 1.4.5
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.timeline@1.4.5"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.timeline@1.4.5"
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -3176,7 +3176,7 @@ m_PackageAssets:
       version: 1.0.6
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3238,7 +3238,7 @@ m_PackageAssets:
       version: 1.1.0
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.mathematics@1.1.0"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.mathematics@1.1.0"
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3314,7 +3314,7 @@ m_PackageAssets:
       version: 4.0.3
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.common@4.0.3"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.common@4.0.3"
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3398,7 +3398,7 @@ m_PackageAssets:
       version: 4.0.1
       source: 1
       resolvedPath: "C:\\Users\\ASUS ROG SCAR II\\OneDrive - Pontificia Universidad
-        Cat\xF3lica Madre y Maestra\\Repo\\Escena 1\\Library\\PackageCache\\com.unity.2d.path@4.0.1"
+        Cat\xF3lica Madre y Maestra\\EdensTower\\edens-tower\\Library\\PackageCache\\com.unity.2d.path@4.0.1"
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3461,5 +3461,5 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/ASUS ROG SCAR II/OneDrive - Pontificia Universidad Cat\xF3lica
-  Madre y Maestra/Repo/Escena 1/Packages"
+  Madre y Maestra/EdensTower/edens-tower/Packages"
 m_EditorVersion: 2020.2.2f1 (068178b99f32)
